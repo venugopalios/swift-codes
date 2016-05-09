@@ -2,7 +2,7 @@
 //  Assignment1UITests.swift
 //  Assignment1UITests
 //
-//  Created by SDPrasad on 5/5/16.
+//  Created by Venu on 5/5/16.
 //  Copyright © 2016 Venu. All rights reserved.
 //
 
